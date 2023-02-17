@@ -1,0 +1,33 @@
+_repo: Harriet-Beecher-Stowe-a-biography-for-girls_69869
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Crow, Martha Foote
+    birthdate: 1854
+    deathdate: 1924
+    gutenberg_agent_id: '6063'
+    url: http://www.gutenberg.org/2009/agents/6063
+    wikipedia: https://en.wikipedia.org/wiki/Martha_Foote_Crow
+description: ''
+gutenberg_issued: '2023-01-24'
+identifiers:
+  gutenberg: '69869'
+  lccn: '13025118'
+language: en
+pgterms:marc904: https://archive.org/details/harrietbeech00crowrich/page/n7/mode/2up
+pgterms:marc905: 20210420202228crow
+pgterms:marc906: '1913'
+pgterms:marc907: US
+production_note: Charlene Taylor, Krista Zaleski and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: 'United States: D. Appleton and Company,1913.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Stowe, Harriet Beecher, 1811-1896 -- Juvenile literature'
+- !lcc 'PS'
+- GITenberg
+title: 'Harriet Beecher Stowe: a biography for girls'
+url: http://www.gutenberg.org/ebooks/69869
