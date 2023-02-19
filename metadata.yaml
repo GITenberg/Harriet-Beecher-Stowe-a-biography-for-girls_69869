@@ -1,5 +1,8 @@
 _repo: Harriet-Beecher-Stowe-a-biography-for-girls_69869
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69869-h/images/cover.jpg
 creator:
   author:
     agent_name: Crow, Martha Foote
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6063
     wikipedia: https://en.wikipedia.org/wiki/Martha_Foote_Crow
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69869#Harriet-Beecher-Stowe-a-biography-for-girls
 gutenberg_issued: '2023-01-24'
 identifiers:
   gutenberg: '69869'
